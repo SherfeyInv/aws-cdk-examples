@@ -1,5 +1,5 @@
 # Use the official Python image
-FROM --platform=linux/amd64 python:3.12-slim
+FROM --platform=linux/amd64 python:3.13.4-slim
 
 # Set the working directory
 WORKDIR /app

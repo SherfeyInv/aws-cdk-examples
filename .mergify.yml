@@ -23,3 +23,5 @@ pull_request_rules:
       dismiss_reviews: {}
     conditions:
       - base=master
+merge_protections_settings:
+  reporting_method: check-runs
